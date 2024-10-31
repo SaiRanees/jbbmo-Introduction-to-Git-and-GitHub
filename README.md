@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
+git add README.md
+git commit -m "Fix footer typo to update year to 2023"
+
